@@ -1,3 +1,5 @@
+// Stanley LAI, 301201143 COMP 229 Midterm
+
 // modules required for routing
 let express = require('express');
 let router = express.Router();
